@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944167024575-iqh3hth9ipri5pi880o00f7003o5ontp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944167024575-iqh3hth9ipri5pi880o00f7003o5ontp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>944167024575-k0bugq6kj9c1vmjum24r3tt5odminhao.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSIHm67Twuwy9SKVNjCVnyPt2YCasi4kQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944167024575</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.yelody</string>
+	<key>PROJECT_ID</key>
+	<string>yelodydemo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yelodydemo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944167024575:ios:2718ccd0bcc7f09ae0930a</string>
+</dict>
+</plist>

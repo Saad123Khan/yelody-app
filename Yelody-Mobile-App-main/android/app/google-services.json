@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "944167024575",
+    "project_id": "yelodydemo",
+    "storage_bucket": "yelodydemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944167024575:android:2d60d586b5dfd330e0930a",
+        "android_client_info": {
+          "package_name": "com.app.yelody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944167024575-k0bugq6kj9c1vmjum24r3tt5odminhao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.yelody",
+            "certificate_hash": "aeb3874fd6b729cc46d520ca724efd2279bcdb43"
+          }
+        },
+        {
+          "client_id": "944167024575-b0m674lod55bsl2lmkgvo7v6hbp2cms7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPcM5hmGlZ_k4YYNiU_luIV1Pv-eh91ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944167024575-b0m674lod55bsl2lmkgvo7v6hbp2cms7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944167024575-1d3f7bm3n5kq5dveqj2khg00dr1hhptn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.yelodyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
